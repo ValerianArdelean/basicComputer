@@ -2,8 +2,8 @@
 
 ## Running the app:
 Clone the repository and simply open the index.html file with any browser
-There, follow the instructions displayed
-    ###Instructions:
+There, follow the instructions displayed:
+
     *This computer can operate mathematical, grade I and II operations with two members.
 
     *In order to proceed click on the start button(displayed on the page).
