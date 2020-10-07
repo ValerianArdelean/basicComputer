@@ -1,12 +1,9 @@
 #calculator {
-  width: 350px;
+  width: 358px;
   margin:auto;
+  margin-top: 50px;
   text-align: center;
   font-size: 19px;
-}
-h1 {
-  text-align: center;
-  margin-top: 50px;
 }
 #button {
   width: 72px;
