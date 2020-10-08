@@ -1,4 +1,5 @@
 # a very simple computer app
+## this app is running [here](https://basic-computer.herokuapp.com)
 
 ## Running the app:
 Clone the repository and simply open the index.html file with any browser
